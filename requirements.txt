@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pandas
+pymongo
+sqlalchemy
+mysql-connector-python
+requests
+python-dotenv
